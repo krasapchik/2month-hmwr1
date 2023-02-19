@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+form{
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 500px;
+    padding: 20px;
+   margin: 100px auto;
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+ .begilin{
+    height: 1px;
+    width: 100%;
+    background: gray;
+margin-top: 10px;
+}
+#para{
+    margin: 10px auto;
+    display: none;
+    color: red;
+}
